@@ -5279,11 +5279,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/erhanyigiter/Desktop/online-food-order/BackEnd/BackEnd.csproj",
+      "projectUniqueName": "/Users/erhanyigiter/Desktop/online-food-order/online-food-ordering-project/BackEnd/BackEnd.csproj",
       "projectName": "BackEnd",
-      "projectPath": "/Users/erhanyigiter/Desktop/online-food-order/BackEnd/BackEnd.csproj",
+      "projectPath": "/Users/erhanyigiter/Desktop/online-food-order/online-food-ordering-project/BackEnd/BackEnd.csproj",
       "packagesPath": "/Users/erhanyigiter/.nuget/packages/",
-      "outputPath": "/Users/erhanyigiter/Desktop/online-food-order/BackEnd/obj/",
+      "outputPath": "/Users/erhanyigiter/Desktop/online-food-order/online-food-ordering-project/BackEnd/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/erhanyigiter/.nuget/NuGet/NuGet.Config"
